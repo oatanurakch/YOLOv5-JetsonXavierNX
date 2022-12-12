@@ -1,0 +1,9 @@
+#path
+train: data/images/train # train images
+val: data/images/validation #val images
+
+# number of classes
+nc: 4
+
+# class names
+names: ['Airplane', 'Bird', 'Drone', 'Helicopter']
